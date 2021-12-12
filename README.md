@@ -22,3 +22,13 @@ Testing solidity capabilities with a simple voting system for different events w
 ### Built With
 
 * Solidity (IDE: Remix)
+
+## Project structure
+```bash
+< PROJECT ROOT >
+   |
+   |-- IVote.sol
+   |-- VotingSystem.sol
+   |-- Candidates.sol                     
+  ************************************************************************
+```
