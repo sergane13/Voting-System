@@ -30,5 +30,4 @@ Testing solidity capabilities with a simple voting system for different events w
    |-- IVote.sol
    |-- VotingSystem.sol
    |-- Candidates.sol                     
-  ************************************************************************
 ```
